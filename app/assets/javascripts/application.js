@@ -15,5 +15,6 @@
 //= require turbolinks
 //= require underscore-min
 //= require backbone-min
+//= require leaflet
 //= require boot
 //= require_tree .
